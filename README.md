@@ -4,12 +4,12 @@
 ## Getting Start 🚀
  You need to install processing (https://processing.org/) for running.
 
-### Pre-requisitos 📋
+## Pre-requisitos 📋
  You need to install processing (https://processing.org/) for running.
 
-#### Authores ✒️
+## Authores ✒️
  This project was created by:
 
  Assum Campos - assumcampos Email: assumcampos@gmail.com Portfolio: Coming soon
-##### Licencia 📄
+## Licencia 📄
  License - Look the LICENSE.md for more details
