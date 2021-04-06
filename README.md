@@ -4,9 +4,6 @@
 ## Getting Start 🚀
  You need to install processing (https://processing.org/) for running.
 
-## Pre-requisitos 📋
- You need to install processing (https://processing.org/) for running.
-
 ## Authores ✒️
  This project was created by:
 
