@@ -4,9 +4,9 @@
 ## Getting Start 🚀
  You need to install processing (https://processing.org/) for running.
 
-## Authores ✒️
+## Authors ✒️
  This project was created by:
 
  Assum Campos - assumcampos Email: assumcampos@gmail.com Portfolio: Coming soon
-## Licencia 📄
+## License 📄
  License - Look the LICENSE.md for more details
