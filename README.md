@@ -7,6 +7,9 @@
 ## Authors ✒️
  This project was created by:
 
- Assum Campos - assumcampos Email: assumcampos@gmail.com Portfolio: Coming soon
+ Assum Campos - assumcampos 
+ Email: assumcampos@gmail.com 
+ Portfolio: http://mural.uv.es/mascam/AssumCampos/html/index.html
+ 
 ## License 📄
  License - Look the LICENSE.md for more details
